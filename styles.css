@@ -1,0 +1,60 @@
+body {
+background-color: wheat;
+padding: 20px;
+counter-reset: #383836;
+}
+
+h1 {
+    font-size: 30px;
+
+}
+
+h3 {
+    color: rgb(197, 127, 40);
+}
+
+.time {
+    background-color: rgba(201, 185, 45, 0.473);
+    padding: 10px;
+    border-radius: 12px;
+    margin-bottom: 24px;
+}
+
+
+section {
+    line-height: 1.5;
+    margin-bottom: 50px;
+}
+
+.container {
+ max-width:700px ;
+ height: auto;
+ margin: auto;
+ background-color: white;
+ border-radius: 16px;
+ overflow: hidden;
+ padding: 23px;
+}
+ table {
+      width: 70%;
+      margin: 20px auto;
+      border-collapse: collapse;
+      font-family: Arial, sans-serif;
+      font-weight: bold;
+      
+    }
+
+      
+        tr {
+         border-bottom: 1px solid #ddd;
+      }
+
+    .image {
+        width: 700px;
+        height: 300px;
+        border-radius:16px;
+    }
+    
+    
+    
+
